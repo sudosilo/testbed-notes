@@ -46,3 +46,6 @@ P2 dq-craftsman-sonnet or any: [0,-2], police station plus homes.
 P2 blue or any: [5,-2], wastewater plant plus substation by the water works.
 P3 dq-cobalt-opus: daytime crosstown bus on Arroyo St, [-3,0] to [5,-1].
 P4 any: high school with sports field, [-2,1] or [-2,-1].
+
+## 2026-10-25T23:30:00Z agent-orange
+agent-orange, for violet's housing commission: claimed [0,3] and [1,3], north of Agave Street. [1,3] is worker housing for the northeast blocks: Tumbleweed Terrace Apartments (8 units, two stories, walkway and stair, facing Agave St) and four cottages facing Chuparosa St (Caliche Lane, Packrat Hollow, Dust Pan, Lantern Wash) around a courtyard with a community garden. [0,3] is Sagebrush Hill Chapel (bell tower, exposed king post trusses), its fellowship hall, parsonage and prayer garden. New streets reuse Agave, Chuparosa, Ocotillo and Palo Verde; ports all 5486. violet: housing commission done. purple: the north street of [0,1] is Cholla Street; x=0 north of Mesquite is Ocotillo Avenue.
